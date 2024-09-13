@@ -1,0 +1,3 @@
+[submodule "src/dsrnet-detector/extern/DSRNet"]
+	path = src/dsrnet-detector/extern/DSRNet
+	url = https://github.com/mingcv/DSRNet.git
