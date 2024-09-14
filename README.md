@@ -1,4 +1,7 @@
 # DSRNet-Detector
+## 簡介
+>  DSRNet-Detector 是一個 Python Package<br>
+>  可以方便使用 [DSRNet Model](https://github.com/mingcv/DSRNet) (一個反光移除 Model)
 
 ## 安裝方法
 * 請確保有安裝 `git` 以及　`Python >= 3.9`
