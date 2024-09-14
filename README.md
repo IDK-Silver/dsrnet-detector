@@ -20,14 +20,14 @@
    pip install -e .
     ```
 ## 使用方法
-詳細程式請見 [detector_example.py](https://github.com/IDK-Silver/dsrnet-detector/example/detector_example.py)
+詳細程式請見 [detector_example.py](https://github.com/IDK-Silver/dsrnet-detector/blob/main/example/detector_example.py)
 
-特別要注意的是 DSRNet 有提供 3 總不同的　model, 分別對應不同的 pt 檔案
+特別要注意的是 DSRNet 有提供 3 總不同的 model, 分別對應不同的 pt 檔案
 * dsrnet_s
 * dsrnet_l
 * dsrnet_l_nature
 
-在載入 model　要給予一個　DSRNetINetType 的 Enum 像是
+在載入 model 要給予一個 `DSRNetINetType` 的 Enum 像是
 * `DSRNetINetType.dsrnet_s`
 * `DSRNetINetType.dsrnet_s`
 * `dsrnet_l_nature`
