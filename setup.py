@@ -20,9 +20,19 @@ setup(
         "License :: OSI Approved :: MIT License",
         "Operating System :: OS Independent",
     ],
-    python_requires=">=3.6",
+    python_requires=">=3.9",
     install_requires=[
-
+        "dominate==2.9.1",
+        "einops==0.7.0",
+        "kornia==0.7.1",
+        "opencv-python==4.9.0.80",
+        "PyYAML==6.0.1",
+        "scikit-image==0.22.0",
+        "scipy==1.12.0",
+        "tensorboardX==2.6.2.2",
+        "torch",
+        "torchvision",
+        "visdom==0.2.4",
     ],
     extras_require={
         "dev": [
