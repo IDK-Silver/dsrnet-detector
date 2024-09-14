@@ -29,8 +29,8 @@
 
 在載入 model 要給予一個 `DSRNetINetType` 的 Enum 像是
 * `DSRNetINetType.dsrnet_s`
-* `DSRNetINetType.dsrnet_s`
-* `dsrnet_l_nature`
+* `DSRNetINetType.dsrnet_l`
+* `DSRNetINetType.dsrnet_l_nature`
 
 ```python
 # import package
